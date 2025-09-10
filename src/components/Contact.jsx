@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section className="py-5 bg-white" id="contact">
       <div className="container">
-        <h2 className="text-center display-5 fw-bold mb-5 text-primary">
+        <h2 className=" mt-3 text-center display-5 fw-bold mb-5 text-primary">
           Contact Us
         </h2>
 

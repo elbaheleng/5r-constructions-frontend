@@ -12,7 +12,7 @@ function Projects() {
   return (
     <section className="py-5 bg-primary text-white" id="projects">
       <div className="container">
-        <h2 className="text-center display-5 fw-bold mb-5">Our Projects</h2>
+        <h2 className=" mt-3 text-center display-5 fw-bold mb-5">Our Projects</h2>
 
         {/* Completed Works */}
         <h3 className="fw-bold mb-4">✅ Completed Works</h3>

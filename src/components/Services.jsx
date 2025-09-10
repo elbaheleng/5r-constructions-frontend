@@ -5,7 +5,7 @@ function Services() {
   return (
     <section className="py-5 bg-light" id="services">
       <div className="container">
-        <h2 className="text-center display-5 fw-bold text-primary mb-5">
+        <h2 className=" mt-3 text-center display-5 fw-bold text-primary mb-5">
           Our Services
         </h2>
 
