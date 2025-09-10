@@ -5,6 +5,7 @@ import About from '../components/About'
 import VisionMission from '../components/VisionMission'
 import Services from '../components/Services'
 import Projects from '../components/Projects'
+import Contact from '../components/Contact'
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
     <VisionMission/>
     <Services/>
     <Projects/>
+    <Contact/>
     </>
   )
 }
