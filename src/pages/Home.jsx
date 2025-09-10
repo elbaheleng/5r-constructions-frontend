@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Hero from '../components/Hero'
 import About from '../components/About'
 import VisionMission from '../components/VisionMission'
+import Services from '../components/Services'
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
     <Hero/>
     <About/>
     <VisionMission/>
+    <Services/>
     </>
   )
 }
